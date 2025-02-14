@@ -31,8 +31,11 @@ memory limitations and energy consumption, efforts were made to optimize the mod
 ### Evaluation
 The models were evaluated using the ROUGE metric, which measures the overlap between
 generated summaries and human reference summaries. Key components of ROUGE include:
+
 • ROUGE-1: Word-level matches.
+
 • ROUGE-2: Bi-gram matches.
+
 • ROUGE-L: Longest common subsequences between generated and reference
 summaries.
 ## 5. Conclusion
